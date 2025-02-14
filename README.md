@@ -1,5 +1,5 @@
 # BachelorThesis
-My Bachelor's thesis on the classical limit of Quantum Mechanics.
+My Bachelor's thesis on the classical limit of Quantum Mechanics (written in Italian)
 
 
 My Bachelor's thesis focused on the classical limit of Quantum Mechanics from the point of view of a Quantum-revised version of the Hamilton-Jacobi formulation.
