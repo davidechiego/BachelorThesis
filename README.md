@@ -1,5 +1,5 @@
 # BachelorThesis
-(written in Italian)
+Written in Italian during my last year at the University of Pisa.
 
 
 My Bachelor's thesis focused on the classical limit of Quantum Mechanics from the point of view of a Quantum-revised version of the Hamilton-Jacobi formulation.
